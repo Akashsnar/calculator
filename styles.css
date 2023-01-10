@@ -1,0 +1,62 @@
+.main{
+    /* height: 100vh; */
+    margin: auto;
+    margin-top: 200px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.btn{
+    position: relative;
+    height: 65px;
+    width: 80px;
+    color: white;
+    outline: 1px solid black;
+    border: none;
+    background: #4d4d4d;
+    font-family: Share Tech Mono, monospace;
+    font-size: 20px;
+    cursor: default;
+}
+.big{
+    position: relative;
+    height: 65px;
+    width: 164px;
+    outline: 1px solid black;
+    border: none;
+    font-family: Share Tech Mono, monospace;
+    font-size: 20px;
+    cursor: default;
+}
+.operator{
+    position: relative;
+    height: 65px;
+    width: 80px;
+    outline: 1px solid black;
+    border: none;
+    font-family: Share Tech Mono, monospace;
+    font-size: 20px;
+    cursor: default;
+}
+#equals{
+    position: relative;
+    height: 65px;
+    width: 80px;
+    outline: 1px solid black;
+    border: none;
+    font-family: Share Tech Mono, monospace;
+    font-size: 20px;
+    cursor: default;
+}
+.formula{
+    width:333px;
+    height: 25px;
+    background-color:rgb(129, 125, 125);
+}
+#display{
+    width:333px;
+    height: 25px;
+    background-color:rgb(129, 125, 125);
+}
